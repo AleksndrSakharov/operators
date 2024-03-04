@@ -10,13 +10,13 @@ void Fraction::SetNumerator(int32_t new_numerator){
 }
 
 Fraction::Fraction(){
-    std::cout << "Construct default" << std::endl;
+    // std::cout << "Construct default" << std::endl;
     _numerator = 0;
     _denominator = 1;
 }
 
 Fraction::Fraction(const Fraction& fraction) {
-    std::cout << "Construct copy" << std::endl;
+    // std::cout << "Construct copy" << std::endl;
     _numerator = fraction._numerator;
     _denominator = fraction._denominator;
 }

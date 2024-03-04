@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/s23380346@unn.global/Sakharov/3823B1FI3/operators/build",
+  "command": "/usr/bin/g++-12   -g -o CMakeFiles/main.dir/main.cpp.o -c /home/s23380346@unn.global/Sakharov/3823B1FI3/operators/main.cpp",
+  "file": "/home/s23380346@unn.global/Sakharov/3823B1FI3/operators/main.cpp"
+},
+{
+  "directory": "/home/s23380346@unn.global/Sakharov/3823B1FI3/operators/build",
+  "command": "/usr/bin/g++-12   -g -o CMakeFiles/main.dir/Fraction.cpp.o -c /home/s23380346@unn.global/Sakharov/3823B1FI3/operators/Fraction.cpp",
+  "file": "/home/s23380346@unn.global/Sakharov/3823B1FI3/operators/Fraction.cpp"
+},
+{
+  "directory": "/home/s23380346@unn.global/Sakharov/3823B1FI3/operators/build",
+  "command": "/usr/bin/g++-12   -g -o CMakeFiles/main.dir/Complex.cpp.o -c /home/s23380346@unn.global/Sakharov/3823B1FI3/operators/Complex.cpp",
+  "file": "/home/s23380346@unn.global/Sakharov/3823B1FI3/operators/Complex.cpp"
+}
+]

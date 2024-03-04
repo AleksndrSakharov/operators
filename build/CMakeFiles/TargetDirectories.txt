@@ -1,0 +1,3 @@
+/home/s23380346@unn.global/Sakharov/3823B1FI3/operators/build/CMakeFiles/main.dir
+/home/s23380346@unn.global/Sakharov/3823B1FI3/operators/build/CMakeFiles/edit_cache.dir
+/home/s23380346@unn.global/Sakharov/3823B1FI3/operators/build/CMakeFiles/rebuild_cache.dir
